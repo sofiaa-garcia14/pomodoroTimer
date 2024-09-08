@@ -10,7 +10,7 @@ export function Footer() {
         <p>
           Desarrollado por{" "}
           <a
-            href="https://tu-portafolio.com"
+            href="https://www.linkedin.com/in/sofiaamaliagarcia/"
             className="text-red-400 hover:underline"
           >
             Sofía García
